@@ -1,7 +1,5 @@
-
-h1 (
-    font-syze: largep;
-    font-weight: bold
+h1 {
+    font-syze: large;
+    font-weight: bold;
     color: blue;
-)
-
+}
