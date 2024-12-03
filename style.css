@@ -3,3 +3,12 @@ h1 {
     font-weight: bold;
     color: blue;
 }
+
+h2{
+    color:orchid;
+    background-color: chartreuse;
+}
+
+h6{
+    color: darkmagenta;
+}
