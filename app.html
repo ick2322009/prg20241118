@@ -27,9 +27,20 @@
                     <input type="text">
                 </div>
             </fieldset>
-            <input type="submit" value="いけぇぇぇぇぇ"onclick="send()">
+            <input type="submit" value="いけぇぇぇぇぇ"onclick="ques()">
 
             <script>
+                function ques(){
+                    if(window.confirm("申し込みますか？")){
+
+                    }else{
+                        send();
+
+                    }
+
+                    
+                }
+
                 function send(){
                     alert("できませんでした")
                 }
